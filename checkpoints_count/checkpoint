@@ -1,0 +1,2 @@
+model_checkpoint_path: "count_bownet_best"
+all_model_checkpoint_paths: "count_bownet_best"
